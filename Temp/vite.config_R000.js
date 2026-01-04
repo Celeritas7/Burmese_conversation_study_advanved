@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Burmese_conversation_study_new/',
+  base: '/Burmese_conversation_study/',  // IMPORTANT: Must match your repository name
 })

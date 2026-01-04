@@ -8,13 +8,13 @@ const CONFIG = {
   SUPABASE_URL: 'YOUR_SUPABASE_URL', // e.g., 'https://xxxxx.supabase.co'
   SUPABASE_ANON_KEY: 'YOUR_SUPABASE_ANON_KEY', // e.g., 'eyJhbGc...'
   
-  // CSV File Paths (use base path for GitHub Pages)
+  // CSV File Paths (relative to public folder or full URLs)
   CSV_PATHS: {
-    consonants: '/Burmese_conversation_study_new/data/Consonants.csv',
-    vowels: '/Burmese_conversation_study_new/data/Vowels.csv',
-    medials: '/Burmese_conversation_study_new/data/Special_characters.csv',
-    conversations: '/Burmese_conversation_study_new/data/Burmese_Conversation.csv',
-    specialCases: '/Burmese_conversation_study_new/data/Special_cases.csv',
+    consonants: './data/Consonants.csv',
+    vowels: './data/Vowels.csv',
+    medials: './data/Special_characters.csv',
+    conversations: './data/Burmese_Conversation.csv',
+    specialCases: './data/Special_cases.csv', // Optional
   },
   
   // Enable/Disable features

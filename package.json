@@ -1,9 +1,9 @@
 {
-  "name": "burmese-learning-app",
+  "name": "Burmese_conversation_study",
   "version": "1.0.0",
   "description": "Learn Burmese with conversation practice and Devanagari pronunciation",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/burmese-learning-app",
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/Burmese_conversation_study",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

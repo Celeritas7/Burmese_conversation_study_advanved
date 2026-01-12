@@ -12,8 +12,8 @@
 11,Bot,စားပွဲတင်မယ်ဆိုရင်ခေါ်ပါ။ ,Call me if you're going to eat.
 12,User,ဟုတ်ကဲ့၊ မင်္ဂလာပါ။ ,"Okay, thank you."
 13,End,---------,---------
-14,Title,,Offering tea
-15,Description,,-----
+14,Title,-,Offering tea
+15,Description,-,-----
 16,Bot,မင်္ဂလာပါ,Hello!
 17,User,လက်ဖက်ရည်သောက်ချင်လား။,Would you like some tea?
 18,Bot,အခုတင်ဖက်ရည်ပြင်တယ်။,I just made some.

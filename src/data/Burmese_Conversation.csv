@@ -1,49 +1,42 @@
 ﻿Sr. No.,Tag,Burmese,English
 1,Title,-,Greeting 1
 2,Description,-,Normal greeting to the friend
-3,Bot,မင်္ဂလာပါ ,Hello!
-4,User,မင်္ဂလာပါ ,Hello!
-5,Bot,နေကောင်းလား။ ,How are you?
-6,User,ကောင်းပါတယ်။ သင်လည်းနေကောင်းလား။ ,I'm fine. How about you?
-7,Bot,ကျွန်တော်လည်းကောင်းပါတယ်။ ,I'm fine too.
-8,User,ဒါကောင်းတယ်။ ,That's good.
-9,Bot,ဒီနေ့ဘာလုပ်နေလဲ။ ,What are you doing today?
-10,User,အိမ်မှာနေမယ်။ ,I'll be at home.
-11,Bot,စားပွဲတင်မယ်ဆိုရင်ခေါ်ပါ။ ,Call me if you're going to eat.
-12,User,ဟုတ်ကဲ့၊ မင်္ဂလာပါ။ ,"Okay, thank you."
+3,Bot,မင်္ဂလာပါ,Hello!
+4,User,မင်္ဂလာပါ,Hello!
+5,Bot,နေကောင်းလား။,How are you?
+6,User,ကောင်းပါတယ်။,I'm fine.
+7,Bot,အိုကေပါ။,Okay.
+8,User,ဟုတ်ကဲ့။,Yes.
 13,End,---------,---------
 14,Title,-,Offering tea
 15,Description,-,-----
 16,Bot,မင်္ဂလာပါ,Hello!
-17,User,လက်ဖက်ရည်သောက်ချင်လား။,Would you like some tea?
-18,Bot,အခုတင်ဖက်ရည်ပြင်တယ်။,I just made some.
-19,User,သောက်ပါ။,Please have some.
-20,Bot,သကြားထည့်မလား။,Do you take sugar?
-21,User,နို့လည်းထည့်မလား။,Or milk?
-22,Bot,ဒီမှာပါ။,Here you go.
-23,User,သင်ကြိုက်မယ်လို့မျှော်လင့်ပါတယ်။,I hope you like it.
+17,User,မင်္ဂလာပါ,Hello!
+18,Bot,နေကောင်းလား။,How are you?
+19,User,ကောင်းပါတယ်။ သင်ကော။,I'm fine. How about you?
+20,Bot,ကောင်းပါတယ်။,I'm fine too.
 24,End,---------,---------
-25,,,
-26,,,
-27,,,
-28,,,
-29,,,
-30,,,
-31,,,
-32,,,
-33,,,
-34,,,
-35,,,
-36,,,
-37,,,
-38,,,
-39,,,
-40,,,
-41,,,
-42,,,
-43,,,
-44,,,
-45,,,
+25,Title,-,Buying Food
+26,Description,-,-----
+27,Bot,မင်္ဂလာပါ,Hello!
+28,User,မင်္ဂလာပါ,Hello!
+29,Bot,ဘာဝယ်ချင်လဲ။,What do you want to buy?
+30,User,အစားအစာဝယ်ချင်တယ်။,I want to buy food.
+31,Bot,ဘာစားမလဲ။,What will you eat?
+32,User,ထမင်းစားမယ်။,I’ll eat rice.
+33,Bot,အိုကေပါ။,Okay.
+34,User,ဒါဆိုသွားလိုက်ပါမယ်။,"Alright then, I’ll go now."
+35,Bot,ကောင်းပါတယ်။,Alright.
+36,Title,-,Light Flirting (Friendly & Respectful)
+37,Description,-,-----
+38,Bot,မင်္ဂလာပါ,Hello!
+39,User,မင်္ဂလာပါ,Hello!
+40,Bot,ဒီနေ့အရမ်းလှတယ်နော်။,You look very nice today.
+41,User,ဟုတ်လား။ ကျေးဇူးပါ။,Really? Thank you.
+42,Bot,အလုပ်ပြီးရင်ကော်ဖီသောက်ချင်လား။,Would you like to have coffee after work?
+43,User,ကောင်းမယ်ထင်တယ်။,That sounds nice.
+44,Bot,ဒါဆိုနောက်မှပြောမယ်နော်။,Then I’ll talk to you later.
+45,User,ဟုတ်ကဲ့။,Okay.
 46,,,
 47,,,
 48,,,
